@@ -41,7 +41,7 @@
 ---
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/email-yourname%40domain.com-blue?style=flat-square&logo=gmail)](mailto:pavithapariofficial@gmail.com)
+[![Email](https://img.shields.io/badge/email-pavithapariofficial%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:pavithapariofficial@gmail.com)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavitha-p-207a43352)  
